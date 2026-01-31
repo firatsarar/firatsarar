@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW14d29mdWhwOTM2bndlOWk5bWxqazhib3VwdW5qbThhZDZqcGF3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378oRMuApI3a35Cg/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo0ZHI1ZjZnNHpteWVmbXVzODNoc20yYXZheTRsMzE2MnEwMWs1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEhmM10mIi1dkMfmg/giphy.gif"  />
 </div>
 
 ###
@@ -62,14 +62,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/firatsarar/firatsarar/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firatsarar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=firatsarar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=firatsarar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/firatsarar/firatsarar/output/snake.svg" alt="Snake animation" />
 
 ###
